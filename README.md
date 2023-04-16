@@ -1,1 +1,2 @@
 # leetcode-linked-list-cycle
+A linked list can be compared to a circular race track where two racers are racing each other at different speeds. Because the track is circular, the two racers at one point will meet side-by-side on the same position of the track. If a linked list has two pointers that point to the same node at one time, the function will return true. Else, the function will return false. 
